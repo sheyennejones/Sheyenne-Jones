@@ -5,3 +5,7 @@
 h1 {
   font-size: 4em;
 }
+
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
