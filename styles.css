@@ -1,11 +1,21 @@
 .julius {
-	font-family: 'Julius Sans One', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
- 
+
 h1 {
   font-size: 4em;
 }
 
 .text-responsive {
   font-size: calc(100% + 1vw + 1vh);
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.flex-left {
+
 }
